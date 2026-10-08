@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá! Eu sou o Matheus 👋
 
-<!--
-**codes-by-matheus/codes-by-matheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software
 
-Here are some ideas to get you started:
+💻 Atualmente estudando:
+- Python
+- SQL
+- Banco de Dados
+- Git e GitHub
+- Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Em busca de oportunidades na área de Tecnologia da Informação.
+
+## 📚 Sobre mim
+
+Sou estudante de Engenharia de Software e estou construindo minha base em programação e tecnologia através de estudos e projetos práticos.
+
+Atualmente, estou desenvolvendo meus conhecimentos em Python, bancos de dados, SQL, Power BI e desenvolvimento de software.
+
+## 🛠️ Tecnologias e conhecimentos
+
+- Python
+- SQL
+- Banco de Dados
+- Power BI
+- Git e GitHub
+
+## 📂 Projetos
+
+Em breve, novos projetos estarão disponíveis aqui.
+
+## 📫 Contato
+
+- LinkedIn: [Matheus da Silva Barbosa Pinto](https://www.linkedin.com/in/matheusdasilvabarbosa)
+- E-mail: silva.mathh17@gmail.com
