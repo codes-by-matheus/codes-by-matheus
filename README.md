@@ -1,14 +1,22 @@
 # Olá! Eu sou o Matheus 👋
 
 🎓 **Estudante de Engenharia de Software**  
-💻 Focado em desenvolvimento com **Python, SQL, Bancos de Dados e Análise de Dados**.  
-🚀 Unindo experiência prática em rotinas operacionais (estoque, expedição e logística) com tecnologia para construir soluções eficientes que resolvem problemas reais de negócio.
+
+💻 Atualmente estudando:
+- Python
+- SQL
+- Banco de Dados
+- Git e GitHub
+- Power BI
+- Inglês
+
+🚀 Em busca de oportunidades na área de Tecnologia da Informação.
 
 ---
 
 ## 📚 Sobre mim
 
-Sou estudante de Engenharia de Software em transição/início de carreira em tecnologia. Tenho vivência prática nos desafios diários de controle de estoque e processos logísticos, e uso essa bagagem para desenvolver aplicações sólidas, funcionais e com regras de negócio bem estruturadas.
+Estudante de Engenharia de Software, construindo base sólida em lógica de programação e algortimos, desenvolvimento de software, suporte e dados, com interesse futuro em pós-graduação e especialização na área de Cibersegurança e Segurança da Informação. Atualmente, aprimorando o inglês para meu desenvolvimento profissional.
 
 ---
 
@@ -25,7 +33,7 @@ Sou estudante de Engenharia de Software em transição/início de carreira em te
 ## 📂 Projetos em Destaque
 
 ### 📦 [StockFlow — Inteligência Operacional para Gestão de Estoque](https://github.com/codes-by-matheus/stockflow)
-> Sistema completo de controle de estoque e logística desenvolvido em Python, SQLite, Streamlit e Pandas.
+> Sistema de controle de estoque e logística desenvolvido em Python, SQLite, Streamlit e Pandas.
 
 * **Destaques:** Banco relacional com integridade referencial (`FOREIGN KEY`), travas de segurança contra estoque negativo, histórico com SQL `JOIN`, alertas automáticos de ponto de reposição e dashboards com KPIs financeiros em tempo real.
 * **Tecnologias:** Python • SQLite • Streamlit • Pandas
