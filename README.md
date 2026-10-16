@@ -15,6 +15,7 @@
 ---
 
 ## 📚 Sobre mim
+
 Estudante de Engenharia de Software, construindo base sólida em lógica de programação e algortimos, desenvolvimento de software, suporte e dados, com interesse futuro em pós-graduação e especialização na área de Cibersegurança e Segurança da Informação. Atualmente, aprimorando o inglês para meu desenvolvimento profissional.
 
 ---
