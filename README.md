@@ -41,6 +41,15 @@ Estudante de engenharia de software, construindo base sólida em lógica de prog
 
 ---
 
+### 🛡️ [AuditPass — Central de Auditoria e Geração de Senhas](https://github.com/codes-by-matheus/auditpass)
+> Aplicação de segurança desenvolvida em Python e Streamlit para verificação de vazamentos e geração criptográfica de credenciais.
+
+* **Destaques:** Checagem de vazamentos via protocolo k-Anonymity (API Have I Been Pwned) sem expor a senha na rede, gerador de credenciais seguras com módulo nativo `secrets`, analisador de força com 6 regras de complexidade e interface moderna customizada.
+* **Tecnologias:** Python • Streamlit • Requests • Hashlib (SHA-1) • Secrets
+
+
+---
+
 ## 📫 Onde me encontrar
 
 * **LinkedIn:** [Matheus da Silva Barbosa Pinto](https://www.linkedin.com/in/matheusdasilvabarbosa)
