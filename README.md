@@ -2,13 +2,13 @@
 
 🎓 **Estudante de Engenharia de Software**  
 
-💻 Atualmente estudando:
-- Python
-- SQL
-- Banco de Dados
-- Git e GitHub
-- Power BI
-- Inglês
+💻 Atualmente estudando e praticando:
+- **Python** (Lógica de programação, automação de tarefas e consumo de APIs)
+- **SQL & Bancos de Dados** (Modelagem relacional e consultas com SQLite)
+- **Streamlit** (Construção de interfaces e sistemas web interativos)
+- **Pandas** (Tratamento, filtros e análise de dados operacionais)
+- **Git & GitHub** (Controle de versão e boas práticas de código)
+- **Inglês** (Aprimoramento contínuo para a área de tecnologia)
 
 🚀 Em busca de oportunidades na área de Tecnologia da Informação.
 
