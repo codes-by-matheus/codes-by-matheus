@@ -21,14 +21,13 @@ Estudante de engenharia de software, construindo base sólida em lógica de prog
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
 * **Linguagens:** Python, SQL
 * **Bancos de Dados:** SQLite, Modelagem Relacional
 * **Bibliotecas & Frameworks:** Streamlit, Pandas
-* **Dados & BI:** Power BI, Análise de Dados Operacionais
+* **Web & Integrações:** Consumo de APIs REST, Requests
 * **Versionamento:** Git, GitHub
-
 ---
 
 ## 📂 Projetos em Destaque
